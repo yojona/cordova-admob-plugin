@@ -1,6 +1,6 @@
 Cordova AdMob plugin
 ====================
-This plugin is compatible with Android, iOS, Windows Phone and Construct 2 Admob plugin.
+This plugin is compatible with Android, iOS, Windows Phone. Compatible with Construct 2 Admob plugin.
 
 
 ## Install ##
