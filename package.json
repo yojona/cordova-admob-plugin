@@ -1,0 +1,35 @@
+{
+  "version": "1.0.40",
+  "name": "cordova.admob.plugin",
+  "cordova_name": "Cordova Admob plugin",
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=5.0.0"
+    }
+  ],
+  "description": "Cordova AdMob plugin",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yojona/phonegap-plugin-ad-admob.git"
+  },
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "npm",
+    "ads",
+	  "monetisation",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "dependencies": {},
+  "bundledDependencies": [],
+  "author": "cranberrygame",
+  "license": "MIT",
+  "homepage": "https://github.com/yojona/phonegap-plugin-ad-admob"
+}
